@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-import comfy
+import totoro
 import folder_paths
 import nodes
 import os
